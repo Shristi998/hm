@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="605" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="234" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="462" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nec hotel"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Nechotel embodies the essence of luxury and comfort, offering a haven where every detail is crafted to indulge and pamper its guests.&#xa; Nestled in a serene location, Nechotel is renowned for its impeccable service, elegant design, and a range of exquisite amenities that cater to discerning travelers.&#xa;&#xa;Location and Ambiance:&#xa;Located in a picturesque setting, Nechotel provides a tranquil escape from the bustle of everyday life.&#xa; The hotel&apos;s architecture seamlessly blends modern sophistication with local charm, creating a&#xa; welcoming atmosphere that immediately puts guests at ease.&#xa;&#xa;Accommodations:&#xa;Nechotel offers a variety of luxurious accommodations, from spacious rooms to opulent suites, &#xa;each meticulously designed to provide ultimate comfort and relaxation. Guests can expect plush &#xa;furnishings, state-of-the-art technology, and stunning views that enhance their stay.&#xa;&#xa;Dining Experience:&#xa;At Nechotel, dining is a culinary journey that celebrates both local flavors and international cuisine.&#xa; The hotel&apos;s restaurants are helmed by talented chefs who curate menus that tantalize the taste buds, &#xa;using fresh, seasonal ingredients to create memorable dishes.&#xa;&#xa;Wellness and Recreation:&#xa;For those seeking rejuvenation, Nechotel boasts a range of wellness facilities, including a luxurious &#xa;spa offering holistic treatments and therapies. Guests can also enjoy leisure activities such as a &#xa;well-equipped fitness center, swimming pool, and opportunities for outdoor exploration.&#xa;&#xa;Events and Meetings:&#xa;Nechotel is an ideal venue for events and meetings, with sophisticated spaces that can be tailored to&#xa; accommodate both intimate gatherings and large-scale conferences. The hotel&apos;s professional staff&#xa; ensures seamless execution, from planning to execution, ensuring every event is a success.&#xa;&#xa;Service Excellence:&#xa;What truly sets Nechotel apart is its commitment to personalized service and attention to detail. &#xa;Whether it&apos;s arranging bespoke experiences, fulfilling special requests, or providing recommendations &#xa;for exploring the local area, the hotel&apos;s dedicated team goes above and beyond to exceed guest expectations.&#xa;&#xa;Local Attractions:&#xa;Adjacent to Nechotel, guests can discover a wealth of local attractions, from cultural landmarks to natura&#xa;l wonders, allowing them to immerse themselves in the destination&apos;s rich heritage and vibrant surroundings."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
